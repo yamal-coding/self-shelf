@@ -62,7 +62,7 @@ function addBottomShelves(shelvesElement) {
     shelvesElement.appendChild(createEmptyShelf());
 
     const shelveWithSignature = createShelf([{
-        url: '/img/signature.png'
+        url: 'img/signature.png'
     }]);
 
     shelvesElement.appendChild(shelveWithSignature);
