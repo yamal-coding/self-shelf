@@ -39,5 +39,16 @@
         },{
             "url": "img/arg.png"
         }
+    ],
+    [
+        {
+            "url": "img/wien.png"
+        },
+        {
+            "url": "img/nin.png"
+        },
+        {
+            "url": "img/water_camera.png"
+        }
     ]
 ]
