@@ -4,10 +4,10 @@
             "url": "img/xmas_21.png"
         },
         {
-            "url": "img/polo.png"
+            "url": "img/cup.png"
         },
         {
-            "url": "img/pumpkin.png"
+            "url": "img/book_jd.png"
         },
         {
             "url": "img/sasha.png"
@@ -15,29 +15,30 @@
     ],
     [
         {
-            "url": "img/book_jd.png"
-        },
-        {
-            "url": "img/instax.png"
+            "url": "img/polo.png"
         },
         {
             "url": "img/casio.png"
         },
         {
-            "url": "img/red_forum.png"
+            "url": "img/nin.png"
+        },
+        {
+            "url": "img/pumpkin.png"
         }
     ],
     [
         {
-            "url": "img/blue_forum.png"
+            "url": "img/instax.png"
         },
         {
             "url": "img/oporto.png"
         },
         {
-            "url": "img/cup.png"
-        },{
             "url": "img/arg.png"
+        },
+        {
+            "url": "img/water_camera.png"
         }
     ],
     [
@@ -45,10 +46,10 @@
             "url": "img/wien.png"
         },
         {
-            "url": "img/nin.png"
+            "url": "img/red_forum.png"
         },
         {
-            "url": "img/water_camera.png"
+            "url": "img/blue_forum.png"
         }
     ]
 ]
